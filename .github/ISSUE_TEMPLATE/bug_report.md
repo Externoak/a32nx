@@ -41,6 +41,3 @@ assignees: ''
 
 **Additional context**
 <!-- Add any other context about the problem here. -->
-
-<!-- You may optionally provide your discord username, so that we may contact you directly about the issue. -->
-Discord username:
