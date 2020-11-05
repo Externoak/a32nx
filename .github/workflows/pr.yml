@@ -23,6 +23,8 @@ jobs:
         run: |
           npm install
           npm run build
+          ls -al
+          ls -al A32NX/
       - uses: actions/upload-artifact@v2
         with:
           name: A32NX
